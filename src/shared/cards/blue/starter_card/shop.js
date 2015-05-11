@@ -1,6 +1,6 @@
 var decks = require('../../../consts/decks');
-var types = require('../../../consts/types');
-var kinds = require('../../../consts/kinds');
+var types = require('../../types');
+var kinds = require('../../kinds');
 
 module.exports = [
   { id: '102', name: 'Kaballa’s Market 3/3 (Starter)' }

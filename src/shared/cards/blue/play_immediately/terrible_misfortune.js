@@ -1,6 +1,6 @@
 var decks = require('../../../consts/decks');
-var types = require('../../../consts/types');
-var kinds = require('../../../consts/kinds');
+var types = require('../../types');
+var kinds = require('../../kinds');
 
 module.exports = [
   { id: '083', subtitle: 'Terrible Misfortune', name: 'Fiat' },

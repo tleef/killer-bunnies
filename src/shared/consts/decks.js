@@ -1,5 +1,5 @@
 
 var decks = module.exports = {};
 
-decks.BLUE = 'blue';
-decks.YELLOW = 'yellow';
+decks.BLUE = '01-blue';
+decks.YELLOW = '02-yellow';
