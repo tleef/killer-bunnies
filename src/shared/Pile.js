@@ -2,7 +2,7 @@
 function Pile(items) {
   if (!(this instanceof Pile)) return new Pile(items);
 
-  this.items = items;
+  this.items = items || [];
 }
 
 Pile.prototype.shuffle = function() {
